@@ -5,3 +5,9 @@ This repository contains solutions for laboratory exercises for the Intro to Art
 
 ## Author
 - **Author:** Mario Perhat
+
+## Last Update
+- **Last Updated:** March 13, 2024
+
+## License
+This work is licensed under the MIT License.
